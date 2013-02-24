@@ -15,7 +15,7 @@ object Main {
 
   def main( args : Array[String] ) {
 
-    val pool = Executors.newFixedThreadPool(10)
+    val pool = Executors.newFixedThreadPool(40)
 
     val destination = new File("target/pages")
 
