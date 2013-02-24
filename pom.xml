@@ -14,7 +14,7 @@
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>jp.Main</mainClass>
+                    <mainClass>org.opendataday.jp.Main</mainClass>
                 </configuration>
             </plugin>
             <plugin>
